@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Ansible and C++.
 
-🔖 I'm a python, bash and java programmer.
+🔖 I'm a python and bash programmer.
 
 <!---
 ulinja/ulinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

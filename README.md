@@ -1,10 +1,10 @@
 👋 Hi, I’m @ulinja. I'm an advocate for free software and student of computer science and digital technology.
 
-👀 I’m interested in Linux system administration, operating systems and tinkering with electronics.
+👀 I’m interested in linux system administration, devops and web application development.
 
-🌱 I’m currently learning C++.
+🌱 I’m currently learning a ton of random things :P I want to have a deeper look into JavaScript in the near future.
 
-🔖 I'm a C, C++, python and bash programmer.
+🔖 My favourite languages are Python and C.
 
 <!---
 ulinja/ulinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

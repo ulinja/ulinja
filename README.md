@@ -1,12 +1,7 @@
-👋 Hi, I’m @ulinja. I'm an advocate for free software and student of computer science and digital technology.
+👋 Hi, I’m Julian. I'm a free software advocate, student of computer science and freelance web developer and system administrator.
 
-👀 I’m interested in linux system administration, devops and web application development.
+👀 I’m interested in backend-focused web development, linux system administration, devops and so much more.
 
-🌱 I’m currently learning a ton of random things :P I want to have a deeper look into JavaScript in the near future.
+🌱 I’m currently learning a ton of random things! If only there were more hours in a day. I want to have a deeper look into machine learning in the near future.
 
 🔖 My favourite languages are Python and C.
-
-<!---
-ulinja/ulinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

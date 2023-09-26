@@ -1,4 +1,4 @@
-👋 Hi, I’m Julian. I'm a free software advocate, student of computer science and freelance web developer and system administrator.
+👋 Hi, I’m Julian. I'm a freelance web developer and system administrator.
 
 👀 I’m interested in backend-focused web development, deployment automation and a ton of other things.
 

@@ -1,9 +1,9 @@
-👋 Hi, I’m Julian. I'm a full stack software engineer.
+👋 Hi, I’m Julian, a software engineer from Europe.
 
-👀 I’m interested in backend-focused web development, deployment automation and a ton of other things.
+👀 I’m interested in web development & deployment automation, and really passionate about building good software.
 
-🌱 I’m currently learning Nix.
+🌱 Currently, I am learning Nix 🐧 and Go :shipit:.
 
-🔖 My favourite technologies are Linux, Python, Docker, Django & Vue.js.
+🛠️ My go-to technologies are Linux, Python, Docker, Django & Vue.js.
 
-🛠️ I host most of my stuff on my own [gitea instance](https://git.skyforest.net/jlobbes).
+🌐 I host most of my stuff on my own [gitea instance](https://git.skyforest.net/jlobbes).

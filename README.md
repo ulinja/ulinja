@@ -6,4 +6,4 @@
 
 🛠️ My go-to technologies are Linux, Python, Docker, Django & Vue.js.
 
-🌐 I host most of my stuff on my own [gitea instance](https://git.skyforest.net/jlobbes).
+🌐 I host most of my stuff on my own [gitea instance](https://git.lobbes.dev/ulinja).
